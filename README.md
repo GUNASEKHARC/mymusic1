@@ -1,5 +1,5 @@
 Description:
-The SimpleMusicPlayer is a straightforward Android application designed to provide users with a hassle-free music listening experience. With a minimalist interface, the app focuses on core functionalities, allowing users to start and stop music playback with ease.
+The MusicPlayer is a straightforward Android application designed to provide users with a hassle-free music listening experience. With a minimalist interface, the app focuses on core functionalities, allowing users to start and stop music playback with ease.
 
 Key Features:
 Start and Stop Playback: Intuitive buttons enable users to initiate and halt music playback effortlessly.
